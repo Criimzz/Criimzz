@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Criimzz
-- 👀 I’m interested in Fullstack (forntend)          
+- 👀 I’m interested in Fullstack (frontend)          
 - 🌱 I’m currently learning Js/Css/Html/react
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me Gluucos3@outlook.es
